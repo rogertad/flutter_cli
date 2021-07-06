@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmployeeDatabaseApplication<employee-database>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.pxp.employeedatabase.EmployeeDatabaseApplication",
+            "projectName": "employee-database",
+            "args": ""
+        }
+    ]
+}
